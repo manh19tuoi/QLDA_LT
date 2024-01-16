@@ -1,0 +1,11 @@
+F:\c#\QQ\QQ\obj\Debug\QQ.csproj.AssemblyReference.cache
+F:\c#\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+F:\c#\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.cache
+F:\c#\QQ\QQ\obj\Debug\QQ.csproj.CoreCompileInputs.cache
+F:\c#\QQ\QQ\bin\Debug\QQ.exe.config
+F:\c#\QQ\QQ\bin\Debug\QQ.exe
+F:\c#\QQ\QQ\bin\Debug\QQ.pdb
+F:\c#\QQ\QQ\obj\Debug\QQ.Form1.resources
+F:\c#\QQ\QQ\obj\Debug\QQ.Form2.resources
+F:\c#\QQ\QQ\obj\Debug\QQ.exe
+F:\c#\QQ\QQ\obj\Debug\QQ.pdb
